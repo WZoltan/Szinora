@@ -7,3 +7,5 @@ HTML5
 CSS3
 JavaScript
 JSBin
+
+Live version: https://jsbin.com/jaqihu/4/edit?html,css,js,output
